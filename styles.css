@@ -1,0 +1,51 @@
+/* ======= Navbar ======= */
+/* Gaya Navbar */
+.navbar {
+    background-color: #fffccc;
+}
+
+/* Gaya logo di Navbar */
+.navbar-brand i {
+    font-size: 20pt;
+}
+
+/* Gaya ikon toggle di Navbar */
+.navbar-toggler-icon {
+    /* Tambahkan gaya Anda untuk ikon toggle di sini */
+}
+
+/* Gaya item navigasi di Navbar */
+.navbar-nav .nav-item {
+    /* Tambahkan gaya Anda untuk item navigasi di sini */
+}
+
+/* ======= Header ======= */
+/* Gaya Header */
+.container-fluid > .row:nth-child(2) {
+    background: #fffccc;
+    min-height: 500px;
+}
+
+/* Gaya kolom kiri di Header */
+.container-fluid > .row:nth-child(2) .col-lg-6 {
+    padding: 5%;
+}
+
+/* Gaya judul di Header */
+.container-fluid > .row:nth-child(2) h1 {
+    font-size: 48pt;
+}
+
+/* Gaya teks di Header */
+.container-fluid > .row:nth-child(2) p {
+    font-size: 25pt;
+}
+
+/* Gaya tombol "Buy" di Header */
+.container-fluid > .row:nth-child(2) .btn {
+    background: #050038;
+    /* Tambahkan gaya Anda untuk tombol di sini */
+}
+
+/* ======= Gaya Tambahan ======= */
+/* Tambahkan gaya CSS tambahan Anda di sini */
